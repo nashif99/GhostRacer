@@ -1,2 +1,27 @@
 ﻿  Actor.cpp
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\Actor.cpp(20,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\Actor.cpp(27,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\Actor.cpp(103,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\Actor.cpp(185,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\Actor.cpp(185,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\Actor.cpp(422,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\Actor.cpp(422,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\Actor.cpp(493,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\Actor.cpp(493,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  StudentWorld.cpp
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(37,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(41,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(45,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(50,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(59,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(61,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(66,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(85,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(148,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(186,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(191,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(223,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(270,9): warning C4101: 'ch': unreferenced local variable
+C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\GhostRacer\StudentWorld.cpp(313,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
   GhostRacer.vcxproj -> C:\Users\Nashif\OneDrive\Desktop\GhostRacer-skeleton-windows\GhostRacer\Debug\GhostRacer.exe
